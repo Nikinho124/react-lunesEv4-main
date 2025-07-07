@@ -1,17 +1,13 @@
-
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #f7f7f7;
+  background-color: #ffffff; /* Fondo blanco limpio */
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   min-height: 100vh;
-  background-image:url(https://wallpapercave.com/wp/wp3118383.jpg);
-  background-size: cover;
 }
-
 /* Contenedor principal para el contenido de los Pokémon */
 .pokemon-container {
   background-color: rgba(255, 255, 255, 0.5);
